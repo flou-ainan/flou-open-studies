@@ -1,32 +1,32 @@
 # Git + Github Handbook #
 
-##List branches:##
+## List branches: ##
 git branch
 
-##List all branches (remotes an locals)##
+## List all branches (remotes an locals)##
 git branch -a
 
-##Create branch:##
+## Create branch: ##
 git branch -C "name"
 
-##Delete branch:##
+## Delete branch: ##
 git branch --delete "name"
 
-##Push new branch to Romote##
+## Push new branch to Romote ##
 git push -u 'remote-name' 'branch-name' 
 - the -u is for upstream
 
-##Add a remote##
+## Add a remote ##
 git remote add "remote-name" "https://remote.domain/repo.git"
 
-##Remove a remote##
+## Remove a remote ##
 git remote remove "remote-name"
 
-##Git Hub Step guides##
+## Git Hub Step guides ##
 
 `after creating a new Github Repo ->`
 
-### Creating a new local repo via CLI and connecting it to Github##
+### Creating a new local repo via CLI and connecting it to Github ###
 
 ```
 $    echo "# Project Name" >> README.md
