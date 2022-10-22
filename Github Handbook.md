@@ -46,5 +46,41 @@ $    git branch -M main
 $    git push -u origin main
 ```
 
+O commit é uma caixa de alteracoes com um selo(msg do commit)
+
+Pasta local = working directory (WC)
+Staging Area = Caixa de alteracoes aberta (SA)
+
+git add <file-name-or-folder>
+• Inclui mudancas feitas na WC a SA, porem mantem a caixa aberta
+
+git rm --cached <file-name-or-folder>
+• 'rm' removes
+• '--cached' arquivos na caixa aberta
+• '<>' seletor de arquivos
+• 'git rm --cached .' unstages all changes
+
+tree .git (lista a arvore de diretorios da pasta '.git'
+
+O git guarda apenas objetos que representam as alteracoes e nao os arquivos inteiros
+
+Se um commit novo é feito, ele aponta para os commits anteriores como referencia
+
+
+git log
+• mostra o historico de alteracoes na pasta .git
+
+git checkout -b <nome do branch>
+- Cria um novo braco de código que aponta para o último commit no braço anterior.
+
+gitk --all  (commando)
+GUI para inspecionar a pasta .git
+
+git usa a estrutura de um grafo
+
+cat .git/HEAD (comando)
+mostra o branch em trabalho(?)
+
+git log --decorate --oneline --graph --all
 
 
