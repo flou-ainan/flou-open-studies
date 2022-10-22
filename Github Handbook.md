@@ -3,7 +3,7 @@
 ## List branches: ##
 git branch
 
-## List all branches (remotes an locals)##
+## List all branches (remotes an locals) ##
 git branch -a
 
 ## Create branch: ##
