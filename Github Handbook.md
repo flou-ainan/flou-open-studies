@@ -69,7 +69,7 @@ git rm --cached <file-name-or-folder>
 • '<>' seletor de arquivos
 • 'git rm --cached .' unstages all changes
 
-tree .git (lista a arvore de diretorios da pasta '.git'
+tree .git (lista a arvore de diretorios da pasta '.git')
 
 O git guarda apenas objetos que representam as alteracoes e nao os arquivos inteiros
 
