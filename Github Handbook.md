@@ -12,6 +12,9 @@ git branch -C "name"
 ## Delete branch: ##
 git branch --delete "name"
 
+## Rename current branch ##
+git branch -M "new-name"
+
 ## Push new branch to Romote ##
 git push -u 'remote-name' 'branch-name' 
 - the -u is for upstream
@@ -19,10 +22,16 @@ git push -u 'remote-name' 'branch-name'
 ## Add a remote ##
 git remote add "remote-name" "https://remote.domain/repo.git"
 
+## Create a new branch based on current ##
+git checkout -b 'new-branch-name'
+
+
 ## Remove a remote ##
 git remote remove "remote-name"
+<br><br>
+<hr><hr>
 
-## Git Hub Step guides ##
+# Git Hub New Repo Step guides #
 
 `after creating a new Github Repo ->`
 
