@@ -12,17 +12,18 @@ I'm assuming a couple of things here, if you aint got them go there and do or ge
 <h4>Create a React Boilerplate app with Vite</h4>
 
 Open a terminal on your preferred projects folder
-![Alt text](image.png)
 
-Type in
+![Alt text](images/image.png)
+
+Type in ⬇️
 ```
 npm create vite
 ```
-its going to ask your project name and type, in my case i'm using `vite-react-to-ghp` and `react with Javascript` as my options. 
+Its going to ask your project name and type, in my case i'm using `vite-react-to-ghp` and `react with Javascript` as my options. 
 
-![Alt text](image-1.png)
+![Alt text](images/image-1.png)
 
-![Alt text](image-2.png)
+![Alt text](images/image-2.png)
 
 The result shoud be something like that:
 
@@ -54,7 +55,7 @@ ls
 ```
 To list the folder itens and see if its worked.
 
-![Alt text](image-3.png)
+![Alt text](images/image-3.png)
 
 Now open the project on VScode to go to next step.
 
@@ -62,22 +63,55 @@ Just type and run
 ```
 code .
 ```
-![Alt text](image-4.png)
+![Alt text](images/image-4.png)
 
-## Step 2
-<h3>Modify your App</h3>
+
 
 Open your VScode Terminal
 
-![Alt text](image-5.png)
-![Alt text](image-6.png)
+![Alt text](images/image-5.png)
+![Alt text](images/image-6.png)
 
 Lets run the following commands
 ```
 npm install
 ```
-![Alt text](image-7.png)
+![Alt text](images/image-7.png)
 
 ```
-npm run
+npm run dev
 ```
+![Alt text](images/image-8.png)
+
+Hold ctrl and click on the provided link to see if everything is working fine.
+
+![Alt text](image.png)
+
+If everything is fine you shoud see somethinbg like that ⬆️
+
+## Step 2 (Optional)
+<h3>Modify your App</h3>
+
+In your VScode open the index.html on the root folder and/or App.jsx on the SRC folder and change at least a couple of things to see the changes.
+
+![Alt text](image-1.png)
+
+## Step 3
+<h3> Create a Github Repo for your App </h3>
+
+Access your github account on your brownser and click on  
+``➕ Create New Repository``
+
+![Alt text](image-2.png)
+
+Just add it's name and go on.
+
+You shoud see something like that ⬇️
+
+![Alt text](image-3.png)
+
+These are the instructions to conect to your repo but first you are going to configure your Git locally on your project folder.
+
+
+
+
