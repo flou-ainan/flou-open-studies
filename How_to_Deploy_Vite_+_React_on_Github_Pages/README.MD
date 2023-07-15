@@ -112,6 +112,20 @@ You shoud see something like that ⬇️
 
 These are the instructions to conect to your repo but first you are going to configure your Git locally on your project folder.
 
+Go back to your VScode Terminal opened on the project folder.
+
+Run
+```
+git init
+```
+
+You shoud see something like that
+```
+flou@flou-desktop:~/Git-repos/vite-react-to-ghp$ git init
+Initialized empty Git repository in /home/flou/Git-repos/vite-react-to-ghp/.git/
+```
+
+
 
 
 
