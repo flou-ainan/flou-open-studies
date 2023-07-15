@@ -9,3 +9,11 @@ I'm assuming a couple of things here, if you aint got them go there and do or ge
 
 ## Step 1
 <h4>Create a React Boilerplate app with Vite</h4>
+
+Open your terminal on your preferred projects folder
+![Alt text](image.png)
+
+Type in
+```
+npm create vite
+```
