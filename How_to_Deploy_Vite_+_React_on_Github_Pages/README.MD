@@ -97,7 +97,7 @@ In your VScode open the index.html on the root folder and/or App.jsx on the SRC 
 ![Alt text](image-1.png)
 
 ## Step 3
-<h3> Create a Github Repo for your App </h3>
+<h3> Creating a new local repo via CLI and connecting it to Github </h3>
 
 Access your github account on your brownser and click on  
 ``➕ Create New Repository``
@@ -110,9 +110,13 @@ You shoud see something like that ⬇️
 
 ![Alt text](image-3.png)
 
-These are the instructions to conect to your repo but first you are going to configure your Git locally on your project folder.
+These are the instructions to conect to your repo but first you are going to configure your Git locally on your project folder 
+<br><small> Save it for later</small>
 
 Go back to your VScode Terminal opened on the project folder.
+<p><small>
+  <b>Tip:</b> Its recommended to use VScode terminal because of its integration with Github. It means you can push your code just with your Github Login, otherwise you would need to use SSH keys or manage some github credentials.
+</small></p>
 
 Run
 ```
@@ -124,6 +128,69 @@ You shoud see something like that
 flou@flou-desktop:~/Git-repos/vite-react-to-ghp$ git init
 Initialized empty Git repository in /home/flou/Git-repos/vite-react-to-ghp/.git/
 ```
+Now you are going to commit and push to the Github repository you have created.
+
+```
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/username/repo-name.git
+  git push -u origin main
+```
+If you open your empty repository page on github you will see thesse commands already with the actual link. Use them starting with `git commit -m "first commit"` like in the example above.
+```  
+git add .
+```
+```  
+git commit -m "first commit"
+```
+
+![Alt text](image-5.png)
+
+If you never used your git you should see something like that<br>
+![Alt text](image-4.png)
+
+Here is how to solve it ⬇️
+```
+git config --global user.email "your-email"
+```
+```
+git config --global user.name "your-username"
+```
+Repeat 
+```  
+git commit -m "first commit"
+```
+
+<b>Ignore it if you have already set it before.</b> Lets continue.
+
+```
+git branch -M main
+```
+```
+git remote add origin https://github.com/username/repo-name.git
+```
+```
+git push -u origin main
+```
+![Alt text](image-6.png)
+If you have done everthing right you can now go to your Github repository page and see that your project is there!
+
+If its already opened in your browser you need to reload the page and voila!
+
+![Alt text](image-7.png)
+
+# Step 4
+<h3>Setting and Deploying to GH Pages</h3>
+
+Now, its time to install the Github pages node module to our project.
+
+Lets go back to VScode Terminal on your project folder.
+
+```
+npm install gh-pages --save-dev
+```
+![Alt text](image-8.png)
+
 
 
 
