@@ -173,6 +173,7 @@ git remote add origin https://github.com/username/repo-name.git
 git push -u origin main
 ```
 ![Alt text](image-6.png)
+
 If you have done everthing right you can now go to your Github repository page and see that your project is there!
 
 If its already opened in your browser you need to reload the page and voila!
@@ -182,17 +183,55 @@ If its already opened in your browser you need to reload the page and voila!
 # Step 4
 <h3>Setting and Deploying to GH Pages</h3>
 
-Now, its time to install the Github pages node module to our project.
-
 Lets go back to VScode Terminal on your project folder.
+
+<b>Step 1</b> - Install the Github pages node module to your project.
 
 ```
 npm install gh-pages --save-dev
 ```
 ![Alt text](image-8.png)
 
+<b>Step 2 </b> - In the package.json file add these lines before "build": "vite build",
+
+```
+"predeploy": "npm run build",
+"deploy": "gh-pages -d dist",
+```
+
+![Alt text](image-9.png)
+
+<b>Step 3</b> - In the vite.config.js file add this line before plugins: [react()],
+```
+base: "/YOUR_REPOSITORY_NAME",
+```
+YOUR_REPOSITORY_NAME got to be the name of your GitHub repository.
+
+![Alt text](image-11.png)
+
+It set, jut hit
+```
+npm run deploy
+```
+and now if you go to your github repository you shoud notice a new branch called "gh-pages"
+
+![Alt text](image-12.png)
 
 
+And you should notice and gh-pages icon too
 
+![Alt text](image-13.png)
 
+It can be "Queued", "In progress" or "Active" if it isn't wait a little bit and keep refreshing the page. When its active access it
 
+![Alt text](image-14.png)
+
+and them click on `View Deployment`
+
+![Alt text](image-15.png)
+
+![Alt text](image-16.png)
+
+Now its successfully deployed. Dont forget do add, commit and push your changes to the main branch.
+
+![Alt text](image-17.png)
