@@ -93,3 +93,20 @@ mostra o branch em trabalho(?)
 git log --decorate --oneline --graph --all
 
 
+# How to merge dev branch on main branch
+
+```
+$ git checkout dev
+# ...develop some code...
+
+$ git add .
+$ git commit –m "Some commit message"
+$ git checkout main
+Switched to branch 'main'
+$ git merge dev
+```
+Quick answer: On main branch run ⬇️
+```
+git merge dev
+```
+
