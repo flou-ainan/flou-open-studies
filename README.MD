@@ -5,7 +5,7 @@ Here you will find some cheatsheets or "how to" of some programing languages or 
 
 <b> Cheatsheets </b>
 - [Github Handbook](./Docs/Handbooks/Github-Handbook.md)
-- [JavaScript Handbook](./Docs/HandbooksJavaScript-Handbook.md)
+- [JavaScript Handbook](./Docs/Handbooks/JavaScript-Handbook.md)
 - [React Handbook](./Docs/Handbooks/React-Handbook.md)
 
 <b> Tutorials </b>
