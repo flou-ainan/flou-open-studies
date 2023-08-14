@@ -1,3 +1,4 @@
+[⬅️ BACK TO INDEX](../../)
 # How to Deploy a Vite + React Project on Github Pages
 
 I'm assuming a couple of things here, if you aint got them go there and do or get them before. 
@@ -235,3 +236,6 @@ and them click on `View Deployment`
 Now its successfully deployed. Dont forget do add, commit and push your changes to the main branch.
 
 ![Alt text](image-17.png)
+
+
+[⬅️ BACK TO INDEX](../../)
