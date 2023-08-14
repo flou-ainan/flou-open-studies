@@ -1,4 +1,4 @@
-[⬅️ BACK TO INDEX](../../)
+[⬅️ BACK TO INDEX](../../../)
 # How to Deploy a Vite + React Project on Github Pages
 
 I'm assuming a couple of things here, if you aint got them go there and do or get them before. 
@@ -238,4 +238,4 @@ Now its successfully deployed. Dont forget do add, commit and push your changes 
 ![Alt text](image-17.png)
 
 
-[⬅️ BACK TO INDEX](../../)
+[⬅️ BACK TO INDEX](../../../)
