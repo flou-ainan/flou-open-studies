@@ -1,3 +1,4 @@
+[⬅️ BACK TO INDEX].(../)
 # Git + Github Handbook #
 
 ## List branches: ##
