@@ -1,4 +1,4 @@
-[⬅️ BACK TO INDEX](../../)
+[⬅️ BACK TO INDEX](../../#my-open-studies)
 # Git + Github Handbook #
 
 ## List branches: ##
@@ -111,5 +111,5 @@ Quick answer: On main branch run ⬇️
 git merge dev
 ```
 
-[⬅️ BACK TO INDEX](../../)
+[⬅️ BACK TO INDEX](../../#my-open-studies)
 
