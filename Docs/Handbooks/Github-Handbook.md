@@ -111,5 +111,19 @@ Quick answer: On main branch run ⬇️
 git merge dev
 ```
 
+# Ho to undo changes made in local environment
+1) Clean the working tree
+```
+git reset --hard
+git pull
+```
+2) If there are untracked local files you could use `git clean` to remove them.
+
+- `git clean -f` to remove untracked files
+- `git clean -df` to remove untracked files and directories
+- `git clean -xdf` to remove untracked or ignored files or directories
+
+
+
 [⬅️ BACK TO INDEX](../../#my-open-studies)
 
