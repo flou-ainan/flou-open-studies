@@ -23,11 +23,11 @@
 
 ### Website Comercial 🔸 Á partir de 297,00
 - Info Site Básico ◽ 297,00
-- Info Site ◽ 320,00
-    - +Conteudo
-- Info Site
-    - +Conteudo
-    - +Identidade Visual ◽ 600,00
+
+- Info Site + Conteudo ◽ 320,00
+
+- Info Site + Conteudo + Identidade Visual ◽ 600,00
+
 - Info Sie Moderno + Conteudo + Identidade Visual ◽ 997,00
 
 [<kbd>CONTRATAR ARTE PERSONALIZADA</kbd>](https://wa.me/?text=Ol%C3%A1%20Flou%2C%20gostaria%20de%20saber%20mais%20sobre%20seus%20servi%C3%A7os%20de%20ARTES%20PERSONALIZADAS.%0A%20)
