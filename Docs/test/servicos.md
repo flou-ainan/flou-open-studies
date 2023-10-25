@@ -1,6 +1,6 @@
 # Serviços Mestre Flou
 
-### Artes para redes 🔸 Á partir de 19,00 por arte
+### Artes para redes 🔸 Á partir de 19,00 por arte ###
 - Feed Instagram/Facebook
 - Story Instgagram/Facebook
 - Anúncios
@@ -9,7 +9,7 @@
 **[`CONTRATAR ARTE PARA REDE`](https://wa.me/?text=Ol%C3%A1%20Flou%2C%20gostaria%20de%20saber%20mais%20sobre%20seus%20servi%C3%A7os%20de%20ARTES%20PARA%20REDES.%0A%20%0A)**
 
 
-### Arte Personalizada 🔸 Á partir de 149,00
+### Arte Personalizada 🔸 Á partir de 149,00 ###
 - Capa de Album
 - Banner para Lojas
 - Cartão de Visita
@@ -21,15 +21,14 @@
 [<kbd>CONTRATAR ARTE PERSONALIZADA</kbd>](https://wa.me/?text=Ol%C3%A1%20Flou%2C%20gostaria%20de%20saber%20mais%20sobre%20seus%20servi%C3%A7os%20de%20ARTES%20PERSONALIZADAS.%0A%20)
 
 
-### Website Comercial 🔸 Á partir de 297,00
-
+### Website Comercial 🔸 Á partir de 297,00 ###
 
 - Info Site Básico ◽ 297,00
 
 - Info Site + Conteudo ◽ 320,00
-
+-
 - Info Site + Conteudo + Identidade Visual ◽ 600,00
-
+-
 - Info Sie Moderno + Conteudo + Identidade Visual ◽ 997,00
 
 [<kbd>CONTRATAR ARTE PERSONALIZADA</kbd>](https://wa.me/?text=Ol%C3%A1%20Flou%2C%20gostaria%20de%20saber%20mais%20sobre%20seus%20servi%C3%A7os%20de%20ARTES%20PERSONALIZADAS.%0A%20)
