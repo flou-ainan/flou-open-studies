@@ -94,7 +94,7 @@ mostra o branch em trabalho(?)
 git log --decorate --oneline --graph --all
 
 
-# How to merge dev branch on main branch
+## How to merge dev branch on main branch
 
 ```
 $ git checkout dev
@@ -111,7 +111,7 @@ Quick answer: On main branch run ⬇️
 git merge dev
 ```
 
-# Ho to undo changes made in local environment
+## How to undo changes made in local environment
 1) Clean the working tree
 ```
 git reset --hard
@@ -122,6 +122,19 @@ git pull
 - `git clean -f` to remove untracked files
 - `git clean -df` to remove untracked files and directories
 - `git clean -xdf` to remove untracked or ignored files or directories
+
+
+
+## How to Delete a Git Branch Both Locally and Remotely
+Delete branch locally
+```bash
+git branch -d localBranchName
+```
+
+Remove branch from remote
+```bash
+git push origin --delete remoteBranchName
+```
 
 
 
