@@ -1,5 +1,5 @@
 # My Open Studies
-### Welcome to my open studies libary
+### Welcome to my open studies library
 Here you will find some cheatsheets or "how to" of some programing languages or softwares tools os any other kind of tech knowledge that I think is nice keep for future quick access.
 <br><br><small>Note: It's a work in progress</small>
 
