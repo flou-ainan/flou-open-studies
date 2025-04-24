@@ -40,7 +40,7 @@ app.listen(3000)
 Este arquivo deverá conter as informações de configurações do servidor. Por exemplo a porta onde o servidor irá escutar que esta escrita manualmente em `app.listen(3000)`
 
 6.2 - Adicione a chave:valor abaixo ao arquivo .env e salve-o:
-```json
+```js
 PORT=3000
 ```
 
